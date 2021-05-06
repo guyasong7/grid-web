@@ -1,0 +1,26 @@
+.nav-link{
+    color: #fff;
+}
+
+.nav-link:hover{
+    color: rgb(226, 230, 20);
+}
+
+.navbar-brand{
+    color: rgb(226, 230, 20);
+}
+
+.navbar-brand:hover{
+    color: rgb(226, 230, 20); 
+}
+
+.img-fluid{
+    background-color: rgb(226, 230, 20);
+    background-blend-mode: lighten;
+    height: 100%;
+    width: 100%;
+}
+
+.center{
+    margin-top: 10px;
+}
